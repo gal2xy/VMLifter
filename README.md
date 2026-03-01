@@ -4,7 +4,9 @@
 
 # 原理
 详细请见(二选一)：
+
 https://gal2xy.github.io/2026/03/01/%E9%80%86%E5%90%91%E5%AE%9E%E6%88%98/VMLifter/
+
 https://bbs.kanxue.com/thread-290131.htm
 
 # 用法
@@ -180,6 +182,7 @@ print(f"最终生成结果: {hex(result)}")
 
 ```
 ````
+
 
 
 
